@@ -1,6 +1,5 @@
 👋 Hi, I’m Simon \
-🏅 Probably practicing for EuroSkills 2025 or working on my e-learning platform \
-🏫 I'm currently studying Computer Science @ RWTH Aachen University \
+🏫 I'm currently working as a Frontend-Engineer @ Amazon Web Services 📍 Berlin \
 📫 Connect with me 
   - www.simonbrebeck.de
   - www.linkedin.com/in/simonbrebeck/
@@ -8,6 +7,8 @@
 \
 I like competitions 🙂 \
 Recent Achievements:
+- 🥇 European Champion for Speed Programming @ EuroSkills 2025
+- 🥈 Vice European Champion in Software Applications Development @ EuroSkills 2025
 - 🥇 1st Place (Challenge by HKFoods) at the Junction Team-Hackathon 2024
 - 🥈 Vice World Champion in Speed Programming @ 47th WorldSkills Competition in 2024
 - 🏅 Medaillon of Excellene in Software Applications Development @ 47th WorldSkills Competition in 2024
